@@ -24,7 +24,7 @@ alert( result );
 ```
 
 ## **Expirience**
-Nothing yet...(
+Nothing yet...( But i hope i will receive it soon
 
 ## **Education**
 * **Donetsk National Technical University**
