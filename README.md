@@ -1,1 +1,1 @@
-https://chudakd.github.io/rsschool-cv/cv
+https://chudakd.github.io/rsschool-cv/
