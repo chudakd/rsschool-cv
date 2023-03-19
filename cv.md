@@ -7,7 +7,7 @@
 * **Discord:** chudakd#3117
 
 ## **About me**
-I am 31 years old, i work  as an engineer in metallurgical factory. Bad days have come for the iron and steel industry because of decarbonisation. It mean that blast furnance shop and sinter plant in our factory will be closed soon. So i am extremely motivated for career change goal. For this reaon i found RSSchool and i start learning front end development. I belive, that second try to learn it will be succesfull:)
+I am 31 years old, i work  as an engineer in metallurgical factory. Bad days have come for the iron and steel industry because of decarbonisation. It mean that blast furnance shop and sinter plant in our factory will be closed soon. So i am extremely motivated for career change goal. For this reaon i found RSSchool and i start learning front end development. I believe, that second try to learn it will be succesfull:)
 
 ## **Skills**
 * HTML/CSS
